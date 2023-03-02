@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="virtual_pet.VirtualPetShelterTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-02-12T21:22:59" hostname="LAPTOP-LBEKL3BO" time="0.086">
+  <properties/>
+  <testcase name="shouldFeedAllOrganic()" classname="virtual_pet.VirtualPetShelterTest" time="0.073"/>
+  <testcase name="shouldWalkAllRobotic()" classname="virtual_pet.VirtualPetShelterTest" time="0.003"/>
+  <testcase name="shouldNapAllOrganic()" classname="virtual_pet.VirtualPetShelterTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
